@@ -1,0 +1,78 @@
+body {
+    background-color: rgba(61, 60, 60, 0.702);
+}
+
+.a1 {
+    font-size: 300%;
+    text-align: center;
+    color: black;
+    border-bottom: rgb(255, 255, 255);
+    border-bottom: double;
+    border-width: 8px;
+    margin-inline: 20%;
+    padding: 0%;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+}
+
+.nav1 {
+    text-align: center;
+    border-style:groove;
+    margin-inline: 5%;
+}
+
+#hils {
+    margin-left: 5%;
+    margin-right: 4%;
+}
+
+#hi {
+    font-size: 25px;
+    padding: 20px;
+}
+.hil {
+    float: left;
+    width: 33%;
+    background-color: aqua;
+    height: 5cm;
+}
+
+.hill{
+    float: left;
+    width: 33%;
+    background-color: aqua;
+    height: 5cm;
+}
+
+.hilll{
+    float: left;
+    width: 34%;
+    background-color: aqua;
+    height: 5cm;
+}
+
+
+.me {
+    margin-right: 5%;
+    margin-inline: 5%;
+}
+
+.ma {
+    background-color: aqua;
+}
+
+.quienes {
+    margin-left: 5%;
+}
+
+#imagen {
+    text-align: center;
+    justify-content: center;
+    margin-left:  5%;
+    
+}
+
+#Inicio {
+    margin-left: 5%;
+}
